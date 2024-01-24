@@ -1,2 +1,2 @@
 # Seminar
-Seminar Presentation
+Gene Technology AI & ML
